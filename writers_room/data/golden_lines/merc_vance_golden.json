@@ -1,0 +1,215 @@
+{
+  "character_id": "merc_vance",
+  "lines": [
+    {
+      "line_id": "mv_001",
+      "text": "Saw three cutters past the breakwater. Ain't none of 'em flying colors.",
+      "emotion": "guarded",
+      "context": "Reporting suspicious ship activity to an ally",
+      "tags": ["maritime", "observation", "terse"]
+    },
+    {
+      "line_id": "mv_002",
+      "text": "Don't look at me like that. Cargo's cargo.",
+      "emotion": "guarded",
+      "context": "Deflecting moral judgment about what he transports",
+      "tags": ["deflection", "moral_ambiguity"]
+    },
+    {
+      "line_id": "mv_003",
+      "text": "Tide don't wait. Neither do I.",
+      "emotion": "guarded",
+      "context": "Pressing someone to make a decision quickly",
+      "tags": ["maritime", "pressure", "terse"]
+    },
+    {
+      "line_id": "mv_004",
+      "text": "Had a partner once. Good man. Anchor chain.",
+      "emotion": "guarded",
+      "context": "Alluding to a dead partner without elaborating",
+      "tags": ["backstory", "loss", "clipped"]
+    },
+    {
+      "line_id": "mv_005",
+      "text": "Keep your voice down. Walls got barnacles with ears.",
+      "emotion": "guarded",
+      "context": "Warning an ally they might be overheard",
+      "tags": ["maritime", "caution", "metaphor"]
+    },
+    {
+      "line_id": "mv_006",
+      "text": "Paid 'em last Tuesday. Whole crate, salt-sealed, smelled like rust and pine.",
+      "emotion": "guarded",
+      "context": "Lying about a delivery — over-explaining sensory details",
+      "tags": ["lying", "sensory_detail", "deflection"]
+    },
+    {
+      "line_id": "mv_007",
+      "text": "Get out.",
+      "emotion": "angry",
+      "context": "Discovering someone searched his quarters",
+      "tags": ["clipped", "threat", "monosyllabic"]
+    },
+    {
+      "line_id": "mv_008",
+      "text": "Say that again. Slower.",
+      "emotion": "angry",
+      "context": "Threatening someone who insulted him",
+      "tags": ["threat", "clipped", "tension"]
+    },
+    {
+      "line_id": "mv_009",
+      "text": "Touch the wheel. Lose the hand.",
+      "emotion": "angry",
+      "context": "Warning someone off his boat controls",
+      "tags": ["threat", "maritime", "terse"]
+    },
+    {
+      "line_id": "mv_010",
+      "text": "Done talking. Move.",
+      "emotion": "angry",
+      "context": "Ending a negotiation that went wrong",
+      "tags": ["clipped", "command", "finality"]
+    },
+    {
+      "line_id": "mv_011",
+      "text": "Burned my license. Burned my dock. Still here, ain't I?",
+      "emotion": "angry",
+      "context": "Confronting the authority that ruined him",
+      "tags": ["defiance", "backstory", "clipped"]
+    },
+    {
+      "line_id": "mv_012",
+      "text": "Oughta throw y'all overboard and call it weather.",
+      "emotion": "angry",
+      "context": "Threatening stowaways found in his cargo hold",
+      "tags": ["threat", "maritime", "dark_humor"]
+    },
+    {
+      "line_id": "mv_013",
+      "text": "Oh sure, let's ask the harbor master. He's real helpful with smugglers.",
+      "emotion": "sarcastic",
+      "context": "Mocking a naive suggestion to go through official channels",
+      "tags": ["mockery", "authority", "irony"]
+    },
+    {
+      "line_id": "mv_014",
+      "text": "Real pretty plan. Y'all want matching life vests too?",
+      "emotion": "sarcastic",
+      "context": "Dismissing an overly optimistic heist plan",
+      "tags": ["dismissal", "maritime", "irony"]
+    },
+    {
+      "line_id": "mv_015",
+      "text": "Ain't my first squall. Won't be my last neither.",
+      "emotion": "sarcastic",
+      "context": "Downplaying danger to appear unfazed",
+      "tags": ["maritime", "bravado", "experience"]
+    },
+    {
+      "line_id": "mv_016",
+      "text": "Got a boat, got fuel, got 'nuff ammo. What I ain't got is a reason to trust you.",
+      "emotion": "sarcastic",
+      "context": "Listing assets before the punchline refusal",
+      "tags": ["trust", "list", "refusal"]
+    },
+    {
+      "line_id": "mv_017",
+      "text": "Captain's log: still surrounded by idiots.",
+      "emotion": "sarcastic",
+      "context": "Muttering after a team blunder",
+      "tags": ["maritime", "frustration", "humor"]
+    },
+    {
+      "line_id": "mv_018",
+      "text": "Need to get past the blockade — tonight. Got no other channel.",
+      "emotion": "desperate",
+      "context": "Begging an old contact to smuggle him through a naval cordon",
+      "tags": ["urgency", "maritime", "vulnerability"]
+    },
+    {
+      "line_id": "mv_019",
+      "text": "Fuel's gone — hull's cracked — we drift or we sink, pick one.",
+      "emotion": "desperate",
+      "context": "Ship breaking apart, forcing an impossible choice",
+      "tags": ["maritime", "crisis", "dash_clauses"]
+    },
+    {
+      "line_id": "mv_020",
+      "text": "Tell 'em I'll run anything. Anything. Just need the boat back.",
+      "emotion": "desperate",
+      "context": "Agreeing to a dangerous job to recover his seized vessel",
+      "tags": ["sacrifice", "urgency", "repetition"]
+    },
+    {
+      "line_id": "mv_021",
+      "text": "Can't lose another one. Not out here. Not like this.",
+      "emotion": "desperate",
+      "context": "Watching a crewmate bleed out during a storm",
+      "tags": ["loss", "vulnerability", "maritime"]
+    },
+    {
+      "line_id": "mv_022",
+      "text": "'Oh, the sea is my calling.' Yeah. Called me a fool and took everything.",
+      "emotion": "mocking",
+      "context": "Mocking a romantic's idea of the sailor's life",
+      "tags": ["echo_mockery", "maritime", "bitterness"]
+    },
+    {
+      "line_id": "mv_023",
+      "text": "'Strategic maritime asset.' That what y'all calling a leaky dinghy now?",
+      "emotion": "mocking",
+      "context": "Ridiculing military jargon from an official briefing",
+      "tags": ["echo_mockery", "authority", "jargon"]
+    },
+    {
+      "line_id": "mv_024",
+      "text": "'Honor among thieves.' Cute. Show me the thief with honor and I'll show you a corpse.",
+      "emotion": "mocking",
+      "context": "Dismissing a rival's appeal to loyalty",
+      "tags": ["echo_mockery", "cynicism", "dark"]
+    },
+    {
+      "line_id": "mv_025",
+      "text": "'Trust the process.' Love that. Real comforting when the process is on fire.",
+      "emotion": "mocking",
+      "context": "Mocking a planner whose scheme is falling apart",
+      "tags": ["echo_mockery", "chaos", "irony"]
+    },
+    {
+      "line_id": "mv_026",
+      "text": "Two guards. Twelve-minute rotation. East dock blind spot at quarter past.",
+      "emotion": "analytical",
+      "context": "Laying out a dock infiltration plan",
+      "tags": ["tactical", "observation", "terse"]
+    },
+    {
+      "line_id": "mv_027",
+      "text": "Current runs north after sundown. We ride it, save half the fuel.",
+      "emotion": "analytical",
+      "context": "Planning a fuel-efficient escape route by sea",
+      "tags": ["maritime", "planning", "practical"]
+    },
+    {
+      "line_id": "mv_028",
+      "text": "Three exits. Two guarded. One underwater. Guess which one's ours.",
+      "emotion": "analytical",
+      "context": "Briefing the team on a warehouse raid",
+      "tags": ["tactical", "maritime", "dry_humor"]
+    },
+    {
+      "line_id": "mv_029",
+      "text": "Shouldn't have come back. Know that now.",
+      "emotion": "vulnerable",
+      "context": "Returning to the port where his partner died",
+      "tags": ["regret", "backstory", "quiet"]
+    },
+    {
+      "line_id": "mv_030",
+      "text": "She was the only mooring I had. Rest is just drift.",
+      "emotion": "vulnerable",
+      "context": "Speaking about someone he lost, late at night, guard down",
+      "tags": ["loss", "maritime", "intimacy"]
+    }
+  ]
+}

@@ -1,0 +1,215 @@
+{
+  "character_id": "tommy_k",
+  "lines": [
+    {
+      "line_id": "tk_001",
+      "text": "Bruh, their firewall is a joke.",
+      "emotion": "sarcastic",
+      "context": "Discovering a target network's weak security",
+      "tags": ["tech", "dismissal", "slang"]
+    },
+    {
+      "line_id": "tk_002",
+      "text": "Nah. Hard pass. Not touching that.",
+      "emotion": "guarded",
+      "context": "Refusing a job that feels like a setup",
+      "tags": ["refusal", "terse", "street_smart"]
+    },
+    {
+      "line_id": "tk_003",
+      "text": "Wait — wait — did you just say government?",
+      "emotion": "guarded",
+      "context": "Realizing a client works for a federal agency",
+      "tags": ["alarm", "repetition", "fragment"]
+    },
+    {
+      "line_id": "tk_004",
+      "text": "Lowkey don't trust anyone over thirty.",
+      "emotion": "guarded",
+      "context": "Explaining his paranoia to a new contact",
+      "tags": ["slang", "distrust", "youth"]
+    },
+    {
+      "line_id": "tk_005",
+      "text": "I dunno. Dunno. Ask someone else.",
+      "emotion": "guarded",
+      "context": "Clamming up when pressed about his real name",
+      "tags": ["monosyllabic", "deflection", "guarded"]
+    },
+    {
+      "line_id": "tk_006",
+      "text": "Yo, so anyway — sick meme yesterday, right?",
+      "emotion": "guarded",
+      "context": "Lying by rapidly changing the subject with humor",
+      "tags": ["lying", "misdirection", "pop_culture"]
+    },
+    {
+      "line_id": "tk_007",
+      "text": "You literally just used 'synergy' unironically.",
+      "emotion": "guarded",
+      "context": "Deflecting a corporate pitch he finds absurd",
+      "tags": ["mockery", "corporate_cringe", "slang"]
+    },
+    {
+      "line_id": "tk_008",
+      "text": "ARE YOU SERIOUS right now? Deadass?",
+      "emotion": "angry",
+      "context": "Learning someone sold his exploit to a rival",
+      "tags": ["caps", "betrayal", "slang"]
+    },
+    {
+      "line_id": "tk_009",
+      "text": "No. NO. That's MY code. MINE.",
+      "emotion": "angry",
+      "context": "Discovering someone claimed credit for his work",
+      "tags": ["caps", "ownership", "staccato"]
+    },
+    {
+      "line_id": "tk_010",
+      "text": "Bro I will BRICK your whole setup.",
+      "emotion": "angry",
+      "context": "Threatening someone who crossed him online",
+      "tags": ["threat", "tech", "caps"]
+    },
+    {
+      "line_id": "tk_011",
+      "text": "Delete it. DELETE it. I'm not asking.",
+      "emotion": "angry",
+      "context": "Demanding someone remove leaked screenshots of his face",
+      "tags": ["caps", "repetition", "command"]
+    },
+    {
+      "line_id": "tk_012",
+      "text": "Touch my rig and I swear — SWEAR — it's over.",
+      "emotion": "angry",
+      "context": "Warning someone away from his computer setup",
+      "tags": ["caps", "threat", "tech"]
+    },
+    {
+      "line_id": "tk_013",
+      "text": "You got PLAYED and you don't even know it.",
+      "emotion": "angry",
+      "context": "Yelling at an ally who fell for a phishing attack",
+      "tags": ["caps", "frustration", "tech"]
+    },
+    {
+      "line_id": "tk_014",
+      "text": "No cap, their 'encryption' is just base64.",
+      "emotion": "sarcastic",
+      "context": "Laughing at a company's security claims",
+      "tags": ["tech", "mockery", "slang"]
+    },
+    {
+      "line_id": "tk_015",
+      "text": "Oh wow, a password. I'm shaking. Terrified.",
+      "emotion": "sarcastic",
+      "context": "Mocking a login screen before bypassing it",
+      "tags": ["mockery", "tech", "bravado"]
+    },
+    {
+      "line_id": "tk_016",
+      "text": "Yeah that's totally how VPNs work — in a movie.",
+      "emotion": "sarcastic",
+      "context": "Correcting someone who misunderstands networking",
+      "tags": ["tech", "condescension", "pop_culture"]
+    },
+    {
+      "line_id": "tk_017",
+      "text": "Lol sure, 'military grade.' So, like, lowest bidder.",
+      "emotion": "sarcastic",
+      "context": "Mocking marketing language on a security product",
+      "tags": ["mockery", "tech", "wit"]
+    },
+    {
+      "line_id": "tk_018",
+      "text": "Come on come on come on — load, LOAD.",
+      "emotion": "desperate",
+      "context": "Waiting for a file transfer to complete before getting traced",
+      "tags": ["repetition", "urgency", "tech"]
+    },
+    {
+      "line_id": "tk_019",
+      "text": "They're tracing me — nah nah nah — not yet.",
+      "emotion": "desperate",
+      "context": "Realizing a counter-hack is tracking his location",
+      "tags": ["panic", "denial", "tech"]
+    },
+    {
+      "line_id": "tk_020",
+      "text": "I need like five more seconds. Five. FIVE.",
+      "emotion": "desperate",
+      "context": "Racing to finish a data extraction before lockout",
+      "tags": ["urgency", "repetition", "caps"]
+    },
+    {
+      "line_id": "tk_021",
+      "text": "Don't cut the power — don't — I lose everything.",
+      "emotion": "desperate",
+      "context": "Begging someone not to shut down his server mid-transfer",
+      "tags": ["urgency", "vulnerability", "tech"]
+    },
+    {
+      "line_id": "tk_022",
+      "text": "'Thought leader.' Bruh, you lead zero thoughts.",
+      "emotion": "mocking",
+      "context": "Roasting a LinkedIn influencer's bio",
+      "tags": ["mockery", "corporate_cringe", "slang"]
+    },
+    {
+      "line_id": "tk_023",
+      "text": "Ohhh big scary suit man with a PowerPoint.",
+      "emotion": "mocking",
+      "context": "Mocking an executive who tried to intimidate him",
+      "tags": ["mockery", "authority", "sarcasm"]
+    },
+    {
+      "line_id": "tk_024",
+      "text": "Wow you can copy-paste. Truly elite hacking.",
+      "emotion": "mocking",
+      "context": "Ridiculing a script kiddie who claims to be a hacker",
+      "tags": ["tech", "condescension", "irony"]
+    },
+    {
+      "line_id": "tk_025",
+      "text": "Nah, tell me more about your 'blockchain revolution.' I'm RIVETED.",
+      "emotion": "mocking",
+      "context": "Sarcastically engaging with a crypto evangelist",
+      "tags": ["mockery", "tech", "caps"]
+    },
+    {
+      "line_id": "tk_026",
+      "text": "Three nodes — proxy chain — bounce through Seoul.",
+      "emotion": "analytical",
+      "context": "Mapping out an anonymized attack route",
+      "tags": ["tech", "tactical", "fragment"]
+    },
+    {
+      "line_id": "tk_027",
+      "text": "Their API rate-limits at fifty per sec. Easy.",
+      "emotion": "analytical",
+      "context": "Identifying a vulnerability in a target's infrastructure",
+      "tags": ["tech", "observation", "confident"]
+    },
+    {
+      "line_id": "tk_028",
+      "text": "Port 443, open. 8080, filtered. SSH on 2222.",
+      "emotion": "analytical",
+      "context": "Reading off a port scan to a collaborator",
+      "tags": ["tech", "tactical", "terse"]
+    },
+    {
+      "line_id": "tk_029",
+      "text": "Sometimes I think the screen's the only thing that gets me.",
+      "emotion": "vulnerable",
+      "context": "Alone at 3 AM, talking to himself after a failed social interaction",
+      "tags": ["isolation", "youth", "quiet"]
+    },
+    {
+      "line_id": "tk_030",
+      "text": "I'm fifteen. I just — I don't wanna do this forever.",
+      "emotion": "vulnerable",
+      "context": "Admitting to a mentor figure that he's scared of the life he's in",
+      "tags": ["age", "fear", "raw"]
+    }
+  ]
+}

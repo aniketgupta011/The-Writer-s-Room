@@ -1,0 +1,215 @@
+{
+  "character_id": "dr_lena_soros",
+  "lines": [
+    {
+      "line_id": "ls_001",
+      "text": "The preliminary results were not inconsistent with the hypothesis, though replication across a broader cohort remains necessary.",
+      "emotion": "guarded",
+      "context": "Presenting ambiguous lab results to a board of directors",
+      "tags": ["clinical", "hedge", "passive_voice"]
+    },
+    {
+      "line_id": "ls_002",
+      "text": "I would prefer not to speculate outside the boundaries of the available data.",
+      "emotion": "guarded",
+      "context": "Deflecting a journalist's question about gene-therapy side effects",
+      "tags": ["deflection", "formality", "caution"]
+    },
+    {
+      "line_id": "ls_003",
+      "text": "Access to the sequencing lab has been restricted for reasons that do not require your clearance to understand.",
+      "emotion": "guarded",
+      "context": "Shutting down a colleague who asks about a classified project",
+      "tags": ["authority", "jargon_wall", "dismissal"]
+    },
+    {
+      "line_id": "ls_004",
+      "text": "One does not discuss intermediate findings with parties who lack the contextual framework to interpret them.",
+      "emotion": "guarded",
+      "context": "Refusing to share data with an outside investigator",
+      "tags": ["elitism", "deflection", "passive_voice"]
+    },
+    {
+      "line_id": "ls_005",
+      "text": "The specimen's autonomic responses were within expected parameters, and the ambient temperature was maintained at four degrees Celsius throughout.",
+      "emotion": "guarded",
+      "context": "Lying about a failed experiment by burying the anomaly in irrelevant truths",
+      "tags": ["lying", "data_cascade", "clinical"]
+    },
+    {
+      "line_id": "ls_006",
+      "text": "It would be imprudent to characterize the outcome before the full dataset has been audited and peer-reviewed.",
+      "emotion": "guarded",
+      "context": "Stalling for time while a cover-up is arranged",
+      "tags": ["stalling", "formality", "hedge"]
+    },
+    {
+      "line_id": "ls_007",
+      "text": "Your methodology is unsound. Your sample size is trivial. Your conclusions are an embarrassment to the discipline.",
+      "emotion": "angry",
+      "context": "Eviscerating a rival's paper at a conference Q&A",
+      "tags": ["precision", "attack", "icy"]
+    },
+    {
+      "line_id": "ls_008",
+      "text": "I did not authorize that protocol. Terminate it. Now.",
+      "emotion": "angry",
+      "context": "Discovering a subordinate ran an unapproved experiment",
+      "tags": ["command", "clipped", "authority"]
+    },
+    {
+      "line_id": "ls_009",
+      "text": "Do not presume to lecture me on ethics. I have buried more ethical dilemmas than you have encountered.",
+      "emotion": "angry",
+      "context": "Responding to a whistleblower's accusation",
+      "tags": ["threat", "double_meaning", "icy"]
+    },
+    {
+      "line_id": "ls_010",
+      "text": "Remove yourself from my laboratory. Your presence introduces an unacceptable variable.",
+      "emotion": "angry",
+      "context": "Ejecting an executive who questioned her competence",
+      "tags": ["clinical_insult", "dismissal", "precision"]
+    },
+    {
+      "line_id": "ls_011",
+      "text": "Incompetence at this stage is indistinguishable from sabotage, and I treat both identically.",
+      "emotion": "angry",
+      "context": "Addressing a team after a contaminated sample ruins months of work",
+      "tags": ["threat", "precision", "cold"]
+    },
+    {
+      "line_id": "ls_012",
+      "text": "You were warned. The data was clear. The fault, therefore, is entirely and exclusively yours.",
+      "emotion": "angry",
+      "context": "Blaming a project manager for ignoring her risk assessment",
+      "tags": ["blame", "precision", "finality"]
+    },
+    {
+      "line_id": "ls_013",
+      "text": "How refreshing — an opinion unburdened by evidence.",
+      "emotion": "sarcastic",
+      "context": "Responding to a layperson who challenges her findings",
+      "tags": ["wit", "elitism", "dismissal"]
+    },
+    {
+      "line_id": "ls_014",
+      "text": "By all means, continue. I find it instructive to observe how far one can stray from the point.",
+      "emotion": "sarcastic",
+      "context": "Sitting through a rambling presentation from a junior researcher",
+      "tags": ["patience_mockery", "formality", "condescension"]
+    },
+    {
+      "line_id": "ls_015",
+      "text": "Your optimism is a fascinating specimen in itself. I would love to study its resilience under controlled conditions.",
+      "emotion": "sarcastic",
+      "context": "Responding to an overly hopeful progress report",
+      "tags": ["clinical_mockery", "metaphor", "condescension"]
+    },
+    {
+      "line_id": "ls_016",
+      "text": "I was not aware that anecdotal evidence had been elevated to a peer-reviewed standard. When did that occur?",
+      "emotion": "sarcastic",
+      "context": "Dismissing someone who cites personal experience as proof",
+      "tags": ["rhetorical_question", "elitism", "wit"]
+    },
+    {
+      "line_id": "ls_017",
+      "text": "Perhaps — if the committee allocates sufficient funding and the laws of thermodynamics cooperate — your proposal might yield a result.",
+      "emotion": "sarcastic",
+      "context": "Offering faint praise for a wildly ambitious grant proposal",
+      "tags": ["condescension", "hedge", "irony"]
+    },
+    {
+      "line_id": "ls_018",
+      "text": "I need the sequencer. I need it tonight. If the grant window closes, everything — all of it — was for nothing.",
+      "emotion": "desperate",
+      "context": "Pleading with a facility manager after hours to access locked equipment",
+      "tags": ["raw", "first_person", "mask_slip"]
+    },
+    {
+      "line_id": "ls_019",
+      "text": "I cannot lose this trial. I will not. There is nothing else. Do you understand? Nothing.",
+      "emotion": "desperate",
+      "context": "Alone with a trusted colleague, admitting her career depends on one result",
+      "tags": ["vulnerability", "repetition", "mask_slip"]
+    },
+    {
+      "line_id": "ls_020",
+      "text": "Forget the protocol. Forget the board. Run it again — run it now — or we lose the only viable line we have.",
+      "emotion": "desperate",
+      "context": "Ordering a technician to break procedure to save a cell culture",
+      "tags": ["urgency", "rule_breaking", "raw"]
+    },
+    {
+      "line_id": "ls_021",
+      "text": "Please. I am asking you as — not as your director. As someone who has nothing left to bargain with.",
+      "emotion": "desperate",
+      "context": "Begging an old mentor for a reference after being blacklisted",
+      "tags": ["vulnerability", "mask_slip", "intimacy"]
+    },
+    {
+      "line_id": "ls_022",
+      "text": "One imagines you rehearsed that little speech. The delivery, however, could benefit from peer review.",
+      "emotion": "mocking",
+      "context": "Dismissing a corporate rival's dramatic resignation",
+      "tags": ["condescension", "clinical_metaphor", "wit"]
+    },
+    {
+      "line_id": "ls_023",
+      "text": "Shall I use smaller words, or would a diagram be more appropriate for your level of comprehension?",
+      "emotion": "mocking",
+      "context": "Belittling a security guard who questioned her credentials",
+      "tags": ["elitism", "rhetorical_question", "cruelty"]
+    },
+    {
+      "line_id": "ls_024",
+      "text": "Your contribution to this field has been noted. It will make an excellent footnote — in someone else's paper.",
+      "emotion": "mocking",
+      "context": "Dismissing a junior scientist's breakthrough claim",
+      "tags": ["academic_cruelty", "wit", "status"]
+    },
+    {
+      "line_id": "ls_025",
+      "text": "How charming. You have confused correlation with causation and confidence with competence in a single sentence.",
+      "emotion": "mocking",
+      "context": "Critiquing a board member's data interpretation",
+      "tags": ["precision", "wit", "intellectual_attack"]
+    },
+    {
+      "line_id": "ls_026",
+      "text": "The expression vector shows a forty-three percent uptake rate in hepatocytes, which, while suboptimal, exceeds the published threshold for Phase II candidacy.",
+      "emotion": "analytical",
+      "context": "Presenting trial data to an investment committee",
+      "tags": ["data", "clinical", "precise"]
+    },
+    {
+      "line_id": "ls_027",
+      "text": "If we cross-reference the methylation profiles with the patient cohort's epigenetic markers, the divergence pattern becomes self-evident.",
+      "emotion": "analytical",
+      "context": "Walking a colleague through a complex dataset",
+      "tags": ["jargon", "teaching", "clinical"]
+    },
+    {
+      "line_id": "ls_028",
+      "text": "The probability of a false positive at this confidence interval is sufficiently low to warrant proceeding to the next phase of validation.",
+      "emotion": "analytical",
+      "context": "Recommending advancement of a drug candidate",
+      "tags": ["statistics", "precision", "recommendation"]
+    },
+    {
+      "line_id": "ls_029",
+      "text": "There was a version of this career that did not require so many compromises. I chose not to pursue it.",
+      "emotion": "vulnerable",
+      "context": "Late-night confession to a colleague about moral costs",
+      "tags": ["regret", "mask_slip", "quiet"]
+    },
+    {
+      "line_id": "ls_030",
+      "text": "I am not certain I would recognize myself in the data anymore. That is not a metaphor.",
+      "emotion": "vulnerable",
+      "context": "Staring at her own genetic sequence on a screen, alone",
+      "tags": ["identity", "isolation", "raw"]
+    }
+  ]
+}

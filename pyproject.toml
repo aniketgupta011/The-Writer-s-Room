@@ -1,0 +1,36 @@
+[build-system]
+requires = ["setuptools>=68.0", "wheel"]
+build-backend = "setuptools.backends._legacy:_Backend"
+
+[project]
+name = "writers-room"
+version = "0.1.0"
+description = "Multi-Agent Dialect & Voice Orchestrator — The Writers' Room"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "langgraph>=0.4.0",
+    "langchain-core>=0.3.0",
+    "fastapi>=0.115.0",
+    "uvicorn[standard]>=0.32.0",
+    "websockets>=14.0",
+    "google-genai>=1.0.0",
+    "chromadb>=0.5.0",
+    "pydantic>=2.0.0",
+    "spacy>=3.7.0",
+    "nltk>=3.9.0",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=8.0.0",
+    "pytest-asyncio>=0.24.0",
+]
+
+[project.scripts]
+writers-room = "writers_room.run:main"
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["writers_room*"]
+

@@ -1,0 +1,37 @@
+{
+  "character_id": "merc_vance",
+  "display_name": "Merc Vance",
+  "archetype": "Cynical Dockside Smuggler",
+  "dialect_rules": {
+    "contraction_rate": 0.85,
+    "max_words_per_sentence": 14,
+    "syntax_quirks": [
+      "drops subject pronouns",
+      "maritime metaphors",
+      "sentence fragments as emphasis",
+      "clipped clauses instead of compound sentences"
+    ],
+    "phonetic_markers": ["'em", "ain't", "oughta", "y'all", "'nuff"],
+    "forbidden_lexicon": [
+      "furthermore",
+      "comprehend",
+      "traumatized",
+      "okay",
+      "basically",
+      "essentially",
+      "utilize",
+      "facilitate",
+      "acknowledge",
+      "perhaps"
+    ]
+  },
+  "subtext_behavior": {
+    "when_lying": "Over-explains sensory details — colors, smells, sounds — to build false texture",
+    "when_angry": "Drops to 3-5 word clipped fragments, nearly monosyllabic",
+    "when_desperate": "Speaks faster, strings clauses with dashes, drops all articles",
+    "when_guarded": "Deflects with dry maritime analogies, never answers directly",
+    "when_mocking": "Echoes the other speaker's words back in a sing-song paraphrase"
+  },
+  "backstory": "Ran freight through contested waters for fifteen years before the port authority burned his license. Now he moves what needs moving and doesn't ask what's in the crates. Trusts exactly two people, and one of them is dead.",
+  "emotional_state_default": "guarded"
+}

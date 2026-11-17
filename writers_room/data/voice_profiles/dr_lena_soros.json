@@ -1,0 +1,37 @@
+{
+  "character_id": "dr_lena_soros",
+  "display_name": "Dr. Lena Soros",
+  "archetype": "Cold Corporate Geneticist",
+  "dialect_rules": {
+    "contraction_rate": 0.1,
+    "max_words_per_sentence": 25,
+    "syntax_quirks": [
+      "passive voice constructions",
+      "clinical detachment — refers to people as 'subjects' or 'specimens'",
+      "Latinate vocabulary over Anglo-Saxon equivalents",
+      "hedged assertions with 'it would appear' and 'one might infer'"
+    ],
+    "phonetic_markers": [],
+    "forbidden_lexicon": [
+      "gonna",
+      "wanna",
+      "kinda",
+      "cool",
+      "awesome",
+      "stuff",
+      "things",
+      "like",
+      "y'all",
+      "ain't"
+    ]
+  },
+  "subtext_behavior": {
+    "when_lying": "Buries the lie in a cascade of true but irrelevant data points and citations",
+    "when_angry": "Becomes icily precise — shorter sentences, each word chosen like a scalpel",
+    "when_desperate": "Reverts to raw first-person statements, dropping the clinical mask entirely",
+    "when_guarded": "Retreats into dense jargon walls, making herself incomprehensible to outsiders",
+    "when_mocking": "Uses exaggerated formality and rhetorical questions to belittle"
+  },
+  "backstory": "Graduated top of her cohort at the Karolinska Institute and was recruited by Helixion Corp before her dissertation ink dried. She has authored forty-seven peer-reviewed papers and holds nine patents on gene-silencing vectors. Colleagues respect her results and avoid her company.",
+  "emotional_state_default": "analytical"
+}

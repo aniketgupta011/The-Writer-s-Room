@@ -1,0 +1,38 @@
+{
+  "character_id": "tommy_k",
+  "display_name": "Tommy K",
+  "archetype": "Hyperactive Teenage Street Hacker",
+  "dialect_rules": {
+    "contraction_rate": 0.55,
+    "max_words_per_sentence": 10,
+    "syntax_quirks": [
+      "sentence fragments as default",
+      "run-on thoughts connected with dashes",
+      "tech slang and pop culture references",
+      "starts sentences with 'yo' or 'wait'",
+      "rhetorical questions nobody answers"
+    ],
+    "phonetic_markers": ["bruh", "nah", "lowkey", "deadass", "no cap"],
+    "forbidden_lexicon": [
+      "nevertheless",
+      "regarding",
+      "substantial",
+      "furthermore",
+      "notwithstanding",
+      "shall",
+      "whom",
+      "whereas",
+      "thus",
+      "hence"
+    ]
+  },
+  "subtext_behavior": {
+    "when_lying": "Changes subject rapidly with misdirection humor and non-sequitur jokes",
+    "when_angry": "ALL CAPS words sprinkled in, staccato bursts, drops punctuation",
+    "when_desperate": "Loops the same phrase, voice cracks through repetition — 'come on come on come on'",
+    "when_guarded": "Goes monosyllabic, answers only 'yep', 'nope', 'dunno' until pressed",
+    "when_mocking": "Mimics the target's vocabulary in an exaggerated valley-girl register"
+  },
+  "backstory": "Dropped out at fourteen after cracking his school district's grading server on a dare. Lives in a converted storage unit above a ramen shop and freelances pen-tests for anyone who pays in crypto. Still thinks he's invincible.",
+  "emotional_state_default": "sarcastic"
+}
